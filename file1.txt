@@ -1,2 +1,2 @@
 "My first Git lab"
-Git lab practice
+Git practice
